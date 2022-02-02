@@ -1,0 +1,165 @@
+Welcome to Tic Tac Toe.
+Select X or O: X
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+Select a position (1-9) to place an x : 1
+it comes here
+   |   |   
+ x |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   | o 
+   |   |   
+-----------
+Select a position (1-9) to place an x : 5
+it comes here
+   |   |   
+ x |   |   
+   |   |   
+-----------
+   |   |   
+   | x |   
+   |   |   
+-----------
+   |   |   
+ o |   | o 
+   |   |   
+-----------
+Select a position (1-9) to place an x : 8
+   |   |   
+ x | o |   
+   |   |   
+-----------
+   |   |   
+   | x |   
+   |   |   
+-----------
+   |   |   
+ o | x | o 
+   |   |   
+-----------
+Select a position (1-9) to place an x : 4
+   |   |   
+ x | o |   
+   |   |   
+-----------
+   |   |   
+ x | x | o 
+   |   |   
+-----------
+   |   |   
+ o | x | o 
+   |   |   
+-----------
+Select a position (1-9) to place an x : 3
+   |   |   
+ x | o | x 
+   |   |   
+-----------
+   |   |   
+ x | x | o 
+   |   |   
+-----------
+   |   |   
+ o | x | o 
+   |   |   
+-----------
+Tie Game :)
+Play again? Press y for yes and n for no: yes
+PLEASE, press y for yes and n for no: y
+Select X or O: O
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+Select a position (1-9) to place an o : 5
+it comes here
+   |   |   
+   |   | x 
+   |   |   
+-----------
+   |   |   
+   | o |   
+   |   |   
+-----------
+   |   |   
+   |   |   
+   |   |   
+-----------
+Select a position (1-9) to place an o : 1
+   |   |   
+ o |   | x 
+   |   |   
+-----------
+   |   |   
+   | o |   
+   |   |   
+-----------
+   |   |   
+   |   | x 
+   |   |   
+-----------
+Select a position (1-9) to place an o : 6
+   |   |   
+ o |   | x 
+   |   |   
+-----------
+   |   |   
+ x | o | o 
+   |   |   
+-----------
+   |   |   
+   |   | x 
+   |   |   
+-----------
+Select a position (1-9) to place an o : 2
+   |   |   
+ o | o | x 
+   |   |   
+-----------
+   |   |   
+ x | o | o 
+   |   |   
+-----------
+   |   |   
+   | x | x 
+   |   |   
+-----------
+Select a position (1-9) to place an o : 7
+   |   |   
+ o | o | x 
+   |   |   
+-----------
+   |   |   
+ x | o | o 
+   |   |   
+-----------
+   |   |   
+ o | x | x 
+   |   |   
+-----------
+Tie Game :)
+Play again? Press y for yes and n for no: n
